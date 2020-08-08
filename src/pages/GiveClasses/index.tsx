@@ -27,7 +27,7 @@ const GiveClasses: React.FC = () => {
       </ImageBackground>
 
       <RectButton onPress={handleNavigateBack} style={styles.okButton}>
-        <Text style={styles.okButtonText}>Vamos lá</Text>
+        <Text style={styles.okButtonText}>Tudo bem</Text>
       </RectButton>
     </View>
   );
